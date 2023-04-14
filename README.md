@@ -18,8 +18,14 @@ These studies also used other programs in order to examine canopy cover, NDVI, o
 Looking at this data, I hypothesize that these three variables will have a very strong coorelation between eachother such that higher density and more dwelling in low income status will have less public trees in their database. 
 
 # What do you need to do?
+I had a little issue with the shapefile. In the simplest terms, my github repository has the full shapefile, but mybinder thinks it is this tiny file. So what you need to do:
+1. On the tab menu of the notebook, there is a little GitHub button, you need to click on this button to get to my github public repo for this project. 
+2. Once you are there, you need to download **dissemination_area.shp** 
+3. once this is downloaded, you need to drag it into the sidebar with all of the files 
+4. It will ask you to overwrite, click on yes to overwrite
 
-All you need to do is open up the file: *TermProject.ipynb*, and you may begin!
+
+Now you may open *TermProject.ipynb*, and you may begin!
 
 
 # Issues I ran into
