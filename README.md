@@ -19,10 +19,7 @@ Looking at this data, I hypothesize that these three variables will have a very 
 
 # What do you need to do?
 
-In order to prepare to use this jupyter folder, *TermProject.ipynb*, I will just need you to unzip and extract the shapefile folder so all of the files are open on the same folder as the *.ipynb* file
-I had to zip it because it was too large to upload it onto github on it's own
-
-Once this is done, you can move onto *TermProject.ipynb* and begin the project. 
+All you need to do is open up the file: *TermProject.ipynb*, and you may begin!
 
 
 # Issues I ran into
